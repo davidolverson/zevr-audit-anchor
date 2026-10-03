@@ -1,0 +1,8 @@
+{
+  "format": "zevr-audit-chain-anchor/v1",
+  "sequence": 11,
+  "hashHex": "e30304cd61ade4f85526e8519d7a833b7fd91a895644474426f2c25b36e13bc5",
+  "observedAt": "2026-10-03T02:07:22.426Z",
+  "preAnchorRows": 47,
+  "migrationHead": "0054"
+}
